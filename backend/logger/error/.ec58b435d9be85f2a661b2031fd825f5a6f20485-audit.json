@@ -6,9 +6,14 @@
     "auditLog": "/home/user/pk/mit/backend/logger/error/.ec58b435d9be85f2a661b2031fd825f5a6f20485-audit.json",
     "files": [
         {
-            "date": 1731205329383,
-            "name": "/home/user/pk/mit/backend/logger/error/error-2024-11-10.log",
-            "hash": "1422916f562292b785a10f542333d4e12d34e0d1e630ee5cf42e2b768e1909af"
+            "date": 1731594509521,
+            "name": "/home/user/pk/mit/backend/logger/error/error-2024-11-14.log",
+            "hash": "e97d22e4d95c034c267020ca46006225f3c9585ba10c2afa3fe04f2637513187"
+        },
+        {
+            "date": 1732603455998,
+            "name": "/home/user/pk/mit/backend/logger/error/error-2024-11-26.log",
+            "hash": "6a9e24b8aab8a7b01e5efc0c7f7dc3efdd916509bd7aab9acddbd8e7d73a0a9f"
         }
     ],
     "hashType": "sha256"
